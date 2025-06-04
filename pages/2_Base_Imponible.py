@@ -40,10 +40,10 @@ else:
             "Ratio_Base_Imponible"
         ],
         "titulos": [
-            "Base Imponible en millones",
-            "Var. (%) - Base imponible en pesos corrientes",
+            "Base Imponible en millones de pesos corrientes",
+            "Variación (%) - Nominal - Base imponible",
             "Índice Base 100 - Nominal - Base Imponible",
-            "Base Imponible - como % del total de la Base Imponible de la Provincia"
+            "Base Imponible - Como % del total de la Base Imponible de la Provincia"
         ],
         "ejes_y": [
             "Millones de $",
@@ -60,13 +60,13 @@ else:
             "Ratio_Base_Imponible"
         ],
         "titulos": [
-            "Base Imponible en millones(Términos Reales)",
-            "Var. (%) - Base imponible en pesos constantes",
+            "Base Imponible en millones de pesos de 2025",
+            "Variación (%) - Real - Base imponible",
             "Índice Base 100 - Real - Base Imponible",
-            "Base Imponible - como % del total de la Base Imponible de la Provincia"
+            "Base Imponible - Como % del total de la Base Imponible de la Provincia"
         ],
         "ejes_y": [
-            "Millones de $ constantes",
+            "Millones de $ de 2025",
             "Variación real (%)",
             "Índice Real",
             "Participación en %"
@@ -80,10 +80,10 @@ else:
             "Ratio_Base_Imponible"
         ],
         "titulos": [
-            "Base Imponible - como % del total de la empresa",
-            "Variación (%) de la participación",
+            "Base Imponible - Como % del total de la empresa",
+            "Variación (%) - Participación en el total de la Base Imponible de la empresa",
             "Índice Base 100 - Porcentaje de participacion",
-            "Base Imponible - como % del total de la Base Imponible de la Provincia"
+            "Base Imponible - Como % del total de la Base Imponible de la Provincia"
         ],
         "ejes_y": [
             "% del total de la empresa",
