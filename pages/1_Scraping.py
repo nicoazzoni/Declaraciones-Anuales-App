@@ -164,14 +164,14 @@ if not st.session_state.scraping_hecho:
                 #======================Realizamos los calculos para llegar al dataframe final==========================================================================
                 #Traemos el archivo de IPC para pasar todo a terminos reales
 
-                ruta1 = 'data\IPC Nacional Anual.xlsx'
+                ruta1 = 'data/IPC Nacional Anual.xlsx'
                 
                 tabla_IPC = pd.read_excel(ruta1)  # Asegurate de tener openpyxl instalado
                 tabla_IPC.head()
 
                 #Traemos el archivo de Comarb Data para traer Base Imponible e Impuesto Determinado Totales por Provincia.
 
-                ruta2 = 'data\Datos - Comarb Data.xlsx'
+                ruta2 = 'data/Datos - Comarb Data.xlsx'
                 
                 tabla_BI = pd.read_excel(ruta2, sheet_name="Base_Imponible")  # Asegurate de tener openpyxl instalado
                 tabla_ID = pd.read_excel(ruta2, sheet_name="Impuesto_Determinado")
