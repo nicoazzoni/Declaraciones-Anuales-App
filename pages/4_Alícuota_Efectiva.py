@@ -206,7 +206,7 @@ else:
     
     # Layout
     fig.update_layout(
-        title="Relación - Base Imponible y Alícuota Efectiva",
+        title="Relación - Participación de la Base Imponible en el total de la empresa y Alícuota Efectiva",
         xaxis_title="Base Imponible como % del total de la empresa",
         yaxis_title="Alicuota Efectiva",
         width=650,
