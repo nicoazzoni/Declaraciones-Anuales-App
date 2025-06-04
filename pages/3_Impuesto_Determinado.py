@@ -41,12 +41,12 @@ else:
         ],
         "titulos": [
             "Impuesto Determinado en millones de pesos corrientes",
-            "Var. (%) nominal- Impuesto Determinado",
+            "Var. (%) - Nominal- Impuesto Determinado",
             "Índice Base 100 - Nominal - Impuesto Determinado",
-            "Impuesto Determinado - como % del total del Impuesto Determinado de la Provincia"
+            "Impuesto Determinado - Como % del total del Impuesto Determinado de la Provincia"
         ],
         "ejes_y": [
-            "Millones de $",
+            "Millones de $ corrientes",
             "Variación (%)",
             "Índice",
             "Participación en %"
@@ -61,12 +61,12 @@ else:
         ],
         "titulos": [
             "Impuesto Determinado en millones de pesos de 2025",
-            "Var. (%) real - Impuesto Determinado",
+            "Var. (%) - Real - Impuesto Determinado",
             "Índice Base 100 - Real - Impuesto Determinado",
-            "Impuesto Determinado - como % del total del Impuesto Determinado de la Provincia"
+            "Impuesto Determinado - Como % del total del Impuesto Determinado de la Provincia"
         ],
         "ejes_y": [
-            "Millones de $ constantes",
+            "Millones de $ de 2025",
             "Variación real (%)",
             "Índice Real",
             "Participación en %"
@@ -80,10 +80,10 @@ else:
             "Ratio_Impuesto_Determinado"
         ],
         "titulos": [
-            "Impuesto Determinado - como % del total de la empresa",
-            "Variación (%) de la participación",
-            "Índice Base 100 - Porcentaje de participacion",
-            "Impuesto Determinado - como % del total del Impuesto Determinado de la Provincia"
+            "Impuesto Determinado - Como % del total de la empresa",
+            "Variación (%) - Participación del total de la empresa",
+            "Índice Base 100 - Porcentaje de participacion del total de la empresa",
+            "Impuesto Determinado - Como % del total del Impuesto Determinado de la Provincia"
         ],
         "ejes_y": [
             "% del total de la empresa",
