@@ -33,7 +33,7 @@ if "año_final" not in st.session_state:
 #=============================================================================================================
 # Mostrar inputs solo si no se hizo scraping
 if not st.session_state.scraping_hecho:
-    st.title("Scraping Declaraciones Juradas Anuales COMARB")
+    st.title("Scraping - Declaraciones Juradas Anuales COMARB")
     with st.form("scraping_form"):
         cuit = st.text_input("Ingresar el CUIT", value=st.session_state.cuit)
     
